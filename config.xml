@@ -59,5 +59,6 @@
         <splash height="960" src="resources/ios/splash/Default@2x~iphone.png" width="640" />
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
     </platform>
-    <engine name="android" spec="~7.0.0" />
+    <engine name="android" spec="^7.0.0" />
+    <engine name="browser" spec="^5.0.4" />
 </widget>
